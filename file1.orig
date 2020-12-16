@@ -1,0 +1,11 @@
+
+hell world master branch editted
+
+<<<<<<< HEAD
+hello world line 1 add by branch dev
+checkout first
+=======
+hello world line 1 add by branch dev - change set merged for this line
+a new line added in github
+>>>>>>> 0bef59e54f8a34cdec3cb860f0712adf0bbf277d
+
